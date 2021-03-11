@@ -3,7 +3,7 @@
     "name": "Portfolio",
     "desc": "Fully responsive portfolio, made with Nuxt.js & Vue.js & TailwindCSS.",
     "language": "Nuxt.js & Vue.js",
-    "thumbnail": "portfolio.png",
+    "thumbnail": "Portfolio.png",
     "url": "https://github.com/RedS-DEV/Portfolio"
   }
 ]
