@@ -4,13 +4,6 @@
     "desc": "Fully responsive portfolio, made with Nuxt.js & Vue.js & TailwindCSS.",
     "language": "Nuxt.js & Vue.js",
     "thumbnail": "portfolio.png",
-    "url": "https://github.com/RedS-DEV/portfolio"
-  },
-  {
-    "name": "InfiniX Bot",
-    "desc": "Manage your Discord server easily.",
-    "language": "Discord Bot",
-    "thumbnail": "infinixbot.png",
-    "url": "https://infinixbot.me"
+    "url": "https://github.com/RedS-DEV/Portfolio"
   }
 ]
