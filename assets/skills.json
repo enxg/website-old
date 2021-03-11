@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Android Java/Kotlin",
+    "value": "60",
+    "icon": "devicon-android-plain"
+  },
+  {
+    "name": "PHP",
+    "value": "75",
+    "icon": "devicon-php-plain"
+  },
+  {
+    "name": "Vue.js & Nuxt.js",
+    "value": "30",
+    "icon": "devicon-vuejs-plain"
+  },
+  {
+    "name": "HTML",
+    "value": "95",
+    "icon": "devicon-html5-plain"
+  },
+  {
+    "name": "TailwindCSS",
+    "value": "45",
+    "icon": "devicon-css3-plain"
+  },
+  {
+    "name": "JavaScript",
+    "value": "65",
+    "icon": "devicon-javascript-plain"
+  },
+  {
+    "name": "NodeJS",
+    "value": "55",
+    "icon": "devicon-nodejs-plain"
+  },
+  {
+    "name": "React.js",
+    "value": "25",
+    "icon": "devicon-react-original"
+  },
+  {
+    "name": "PHP Laravel",
+    "value": "15",
+    "icon": "devicon-laravel-plain"
+  },
+  {
+    "name": "Unity",
+    "value": "35",
+    "icon": "fab fa-unity"
+  },
+  {
+    "name": "C#",
+    "value": "30",
+    "icon": "devicon-csharp-plain"
+  }
+]
