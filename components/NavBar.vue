@@ -13,7 +13,7 @@
         <NuxtLink to="/" class="mx-2.5 hover:text-white" exact-active-class="text-white">Home</NuxtLink>
         <NuxtLink to="/projects" class="mx-2.5 hover:text-white" exact-active-class="text-white">My Projects</NuxtLink>
         <NuxtLink to="/about" class="mx-2.5 hover:text-white" exact-active-class="text-white">About Me</NuxtLink>
-        <NuxtLink to="/contact" class="inline-flex items-center duration-200 justify-center border-2 py-1 px-3 focus:outline-none hover:bg-green-500 hover:text-white text-green-500 border-green-500 rounded text-base ml-2.5 mt-4 md:mt-0" exact-active-class="text-white">Contact
+        <NuxtLink to="/about" class="inline-flex items-center duration-200 justify-center border-2 py-1 px-3 focus:outline-none hover:bg-green-500 hover:text-white text-green-500 border-green-500 rounded text-base ml-2.5 mt-4 md:mt-0" exact-active-class="text-white">Contact
           <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 ml-1 text-sm" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
           </svg>

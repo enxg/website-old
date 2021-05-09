@@ -1,7 +1,10 @@
 <template>
   <div>
-    <NavBar />
-    <Projects />
+    <div class="min-h-screen">
+      <NavBar />
+      <Projects />
+    </div>
+    <Footer/>
   </div>
 </template>
 

@@ -1,7 +1,9 @@
 <template>
   <div>
-    <NavBar />
-    <indexHero/>
+    <div class="min-h-screen">
+      <NavBar />
+      <indexHero/>
+    </div>
     <Footer />
   </div>
 </template>
