@@ -14,7 +14,7 @@ export default {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
       { rel: "preconnect", href: "https://fonts.gstatic.com" },
       { rel: "stylesheet", href: "https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap"},
-      { rel: "stylesheet", href: "/fontawesome/css/all.css"},
+      { rel: "stylesheet", href: "https://maxst.icons8.com/vue-static/landings/line-awesome/font-awesome-line-awesome/css/all.min.css"},
       { rel: "stylesheet", href:"https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" }
     ]
   },
